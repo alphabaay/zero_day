@@ -1,2 +1,6 @@
 uname -a
 This will provide more detailed information, including the kernel version, architecture, and other details.
+
+If "Linux" is present in the content, you might need to modify the file to exclude that string. You can use a text editor like nano, vim, or gedit to make the necessary changes.
+
+For example, using nano:
