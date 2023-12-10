@@ -1,0 +1,2 @@
+uname -a
+This will provide more detailed information, including the kernel version, architecture, and other details.
